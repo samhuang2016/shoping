@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ipsshoping:war">
+    <output-path>$PROJECT_DIR$/ipsshoping/target</output-path>
+    <root id="archive" name="ips-shoping.war">
+      <element id="artifact" artifact-name="ipsshoping:war exploded" />
+    </root>
+  </artifact>
+</component>
